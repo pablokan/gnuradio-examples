@@ -12,6 +12,7 @@
 # GNU Radio version: 3.8.1.0
 
 from distutils.version import StrictVersion
+from gnuradio import analog
 
 if __name__ == '__main__':
     import ctypes
